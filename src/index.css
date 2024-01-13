@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.divApp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divCard{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+
+    
+}
