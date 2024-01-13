@@ -1,7 +1,7 @@
 npm {
   "homepage":"https://github.com/PabloJelvez/Adopta-un-perrito",
   "name": "adopta-un-perrito",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
