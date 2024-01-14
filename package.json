@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/PabloJelvez/Adopta-un-perrito",
   "name": "adopta-un-perrito",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
